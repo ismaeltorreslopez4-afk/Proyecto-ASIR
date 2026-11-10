@@ -10,4 +10,5 @@ Análisis de necesidades -- Tienda (Infor-Matic)
 
 
 Mi recomendación para el mantenimiento en la tienda es resolver todos estos problemas que nombramos anteriormente con el fin de hacer la tienda un lugar mejor para los clientes y trabajadores en general.
+Mejoras tienda:
 
